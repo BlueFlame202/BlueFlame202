@@ -1,5 +1,3 @@
-<p style='color: red'>test</p>
-
 ## About Me 🌊 
 
 I'm Aathreya. I like to code for two reasons:
