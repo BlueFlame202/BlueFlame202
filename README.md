@@ -1,9 +1,4 @@
-<style>
-    s {
-        text-decoration:none;
-        color: blue;
-    }
-</style>
+<p style='color: red'>test</p>
 
 ## About Me 🌊 
 
