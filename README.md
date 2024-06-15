@@ -1,6 +1,9 @@
-<div align="center">
-    <img src="injection.svg" width="400" height="400" alt="injection">
-</div>
+<style>
+    s {
+        text-decoration:none;
+        color: blue;
+    }
+</style>
 
 ## About Me 🌊 
 
