@@ -1,4 +1,3 @@
-# Welcome
 ## About Me 🌊 
 
 I'm Aathreya. I like to code for two reasons:
