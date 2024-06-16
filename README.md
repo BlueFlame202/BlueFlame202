@@ -22,7 +22,7 @@ Here are some projects I've worked on. To navigate to the repository for the pro
 
 ### High School
 
-Ahh... back then I was just learning to code! Hahaha, these projects were some of the projects that got me into coding. I also didn't know Git, so I mainly used Github desktop (and it didn't work so well for me). In fact, a traumatizing moment for me was when I used Git to delete my entire graphics engine project (maybe the fifth one I had built and the first one to actually "work") in a way that was irrecoverable. Even though they can be a bit bad in hindsight, I still love these projects. 😁
+Ahh... back then I was just learning to code! Hahaha, these projects were some of the projects that got me into coding. I also didn't know Git, so I mainly used Github desktop (and it didn't work so well for me). In fact, a traumatizing moment for me was when I used Git to delete my entire graphics engine project (maybe the fifth one I had built and the first one to actually "work") in a way that was irrecoverable. Even though they can be a bit bad in hindsight, I still love these projects. 😁 I think my favorite ones were Spectroscopy, CQuMuG-Base, and School.
 
 - **E-Spectrometry:** A C++ version of my Java Spectroscopy project, where I averaged over videos of iPhone-captured spectra. The goal of this was to try and get more accurate measurements. <a href="https://github.com/BlueFlame202/E-Spectrometry">Teleport.</a>
 - **E:** Me experimenting with OpenCV in C++, with the goal of eventually building a security system for my house. I think I might return to this project since I know a lot more about it now. This project though, **E**, was supposed to be a generic tool for image stuff. <a href="https://github.com/BlueFlame202/E">Teleport.</a>
