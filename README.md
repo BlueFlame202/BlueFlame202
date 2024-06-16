@@ -12,9 +12,9 @@ Contact me if you'd like to learn more about the types of problems I'm currently
 
 **darth-vader-py:** The VADER method has some issues, which I documented in my repositories. I countered these issues by allowing for a more dynamic lexicon that isn't necessarily gold-standard, but is more accurate when it comes to sentiment. This way, it was more useful and sensitive for certain corpus of tweets that I cared about.
 
-**vaderSentimentCpp:** A C++ version of the VADER sentiment analysis tool. I made this so I could do sentiment analysis on a large corpus much faster, and also just because I like C++ and there wasn't an existing repository implementing this. I wrote this a while ago, so in hindsight, there are some things that could be changed (especially in terms of styling). When I get a chance I'll make updates. If you would like to see these updates made, shoot me an email at aathreyakadambi@gmail.com so I'll prioritize them!
+**vader-cpp:** A C++ version of the VADER sentiment analysis tool. I made this so I could do sentiment analysis on a large corpus much faster, and also just because I like C++ and there wasn't an existing repository implementing this. I wrote this a while ago, so in hindsight, there are some things that could be changed (especially in terms of styling). When I get a chance I'll make updates. If you would like to see these updates made, shoot me an email at aathreyakadambi@gmail.com so I'll prioritize them!
 
-**LaTeX-and-Asy:** The files I use to make my fancy LaTeX notes and documents.
+**latex-and-asy:** The files I use to make my fancy LaTeX notes and documents.
 
 **blueflame202.github.io:** The public side of my website/blog.
 
