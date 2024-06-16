@@ -8,7 +8,7 @@ Contact me if you'd like to learn more about the types of problems I'm currently
 
 ## Projects 🌱 
 
-**algae:** Implementations of various algorithms I learned in my algorithms course. This way, I can use them easily in C++.
+**algae:** Implementations of various algorithms I learned in my algorithms course. This way, I can use them easily in C++. To teleport to the repository, click <a href="test">here.</a>
 
 **darth-vader-py:** The VADER method has some issues, which I documented in my repositories. I countered these issues by allowing for a more dynamic lexicon that isn't necessarily gold-standard, but is more accurate when it comes to sentiment. This way, it was more useful and sensitive for certain corpus of tweets that I cared about.
 
