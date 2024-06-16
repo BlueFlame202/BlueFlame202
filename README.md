@@ -1,8 +1,9 @@
 ## About Me 🌊 
 
-I'm Aathreya. I like to code for two reasons:
+I'm Aathreya. I like to code for three reasons:
 1. 📊 Making mathematical models more tangible.
 2. 🏃‍♂️ I like optimizing things.
+3. 🥷 I feel cooler.
 
 Contact me if you'd like to learn more about the types of problems I'm currently working on solving! 😁
 
