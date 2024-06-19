@@ -19,7 +19,7 @@ Here are some projects I've worked on. To navigate to the repository for the pro
 
 **latex-and-asy:** The files I use to make my fancy LaTeX notes and documents. <a href="https://github.com/BlueFlame202/latex-and-asy">Teleport!</a>
 
-**blueflame202.github.io:** The public side of my website/blog. <a href="https://github.com/BlueFlame202/blueflame202.github.io">Teleport!</a>
+<!--**blueflame202.github.io:** The public side of my website/blog. <a href="https://github.com/BlueFlame202/blueflame202.github.io">Teleport!</a>-->
 
 ### High School (AKA: Bad Code But In Good Spirit)
 
