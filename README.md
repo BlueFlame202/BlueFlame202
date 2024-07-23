@@ -13,6 +13,8 @@ Here are some projects I've worked on. To navigate to the repository for the pro
 
 **algae:** Implementations of various algorithms I learned in my algorithms course. This way, I can use them easily in C++. <a href="https://github.com/BlueFlame202/algae">Teleport!</a>
 
+**pdf-reader:** A simple PDF Reader so I can listen to books, articles, or other things! <a href="https://github.com/BlueFlame202/pdf-reader/tree/main">Teleport!</a>
+
 **darth-vader-py:** The VADER method has some issues, which I documented in my repositories. I countered these issues by allowing for a more dynamic lexicon that isn't necessarily gold-standard, but is more accurate when it comes to sentiment. This way, it was more useful and sensitive for certain corpus of tweets that I cared about. <a href="https://github.com/BlueFlame202/darth-vader-py">Teleport!</a>
 
 **vader-cpp:** A C++ version of the VADER sentiment analysis tool. I made this so I could do sentiment analysis on a large corpus much faster, and also just because I like C++ and there wasn't an existing repository implementing this. I wrote this a while ago, so in hindsight, some things could be changed (especially stylistically). When I get a chance I'll make updates. If you would like to see these updates made, shoot me an email at aathreyakadambi@gmail.com so I'll prioritize them! <a href="https://github.com/BlueFlame202/vader-cpp">Teleport!</a>
