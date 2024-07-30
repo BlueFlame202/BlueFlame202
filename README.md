@@ -13,7 +13,7 @@ Here are some projects I've worked on. To navigate to the repository for the pro
 
 **algae:** Implementations of various algorithms I learned in my algorithms course. This way, I can use them easily in C++. <a href="https://github.com/BlueFlame202/algae">Teleport!</a>
 
-**pdf-reader:** A very simple PDF Reader (literally just calling API methods) so I can listen to books, articles, or other things as I walk through campus! I've seen ads for paid versions of things like this and thought it was a nice idea but easy to code for free. <a href="https://github.com/BlueFlame202/pdf-reader/tree/main">Teleport!</a>
+**pdf-reader:** A very simple PDF Reader (literally just calling API methods) so I can listen to books, articles, or other things as I walk through campus! I've seen ads for paid versions of things like this and thought it was a nice idea but doable to code worse versions that still work reasonably for free. <a href="https://github.com/BlueFlame202/pdf-reader/tree/main">Teleport!</a>
 
 **darth-vader-py:** The VADER method has some issues, which I documented in my repositories. I countered these issues by allowing for a more dynamic lexicon that isn't necessarily gold-standard, but is more accurate when it comes to sentiment. This way, it was more useful and sensitive for certain corpus of tweets that I cared about. <a href="https://github.com/BlueFlame202/darth-vader-py">Teleport!</a>
 
