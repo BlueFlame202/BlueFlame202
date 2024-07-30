@@ -9,7 +9,7 @@ Contact me if you'd like to learn more about the types of problems I'm currently
 
 ## Projects 🌱 
 
-Here are some projects I've worked on. To navigate to the repository for the project, click on the "Teleport!" link at the end of the description and you will be magically transported to your destination.
+Here are some of the personal projects I've worked on. To navigate to the repository for the project, click on the "Teleport!" link at the end of the description and you will be magically transported to your destination.
 
 **algae:** Implementations of various algorithms I learned in my algorithms course. This way, I can use them easily in C++. <a href="https://github.com/BlueFlame202/algae">Teleport!</a>
 
