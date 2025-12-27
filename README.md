@@ -7,11 +7,11 @@ I'm Aathreya. I like to code for three reasons:
 
 Contact me if you'd like to learn more about the types of problems I'm currently working on solving! 😁
 
-## Projects 🌱 
+## Selected Projects 🌱 
 
 Here are some of the personal projects I've worked on. To navigate to the repository for the project, click on the "Teleport!" link at the end of the description and you will be magically transported to your destination.
 
-**algae:** Implementations of various algorithms I learned in my algorithms course. This way, I can use them easily in C++. <a href="https://github.com/BlueFlame202/algae">Teleport!</a>
+**q2:** A UI similar to ChatGPT for `ollama` and local inference models, which will additionally incorporate memory and other features in the future. <a href="https://github.com/BlueFlame202/q2">Teleport!</a>
 
 **pdf-reader:** A very simple PDF Reader (literally just calling API methods) so I can listen to books, articles, or other things as I walk through campus! I've seen ads for paid versions of things like this and thought it was a nice idea, but rather than purchase a subscription I may as well code a primitive version that still works reasonably for free. <a href="https://github.com/BlueFlame202/pdf-reader/tree/main">Teleport!</a>
 
