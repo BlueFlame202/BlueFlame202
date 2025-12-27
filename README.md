@@ -13,6 +13,8 @@ Here are some of the personal projects I've worked on. To navigate to the reposi
 
 **q2:** A UI similar to ChatGPT for `ollama` and local inference models, which will additionally incorporate memory and other features in the future. <a href="https://github.com/BlueFlame202/q2">Teleport!</a>
 
+**lemonade:** My personal website and blog! <a href="https://github.com/BlueFlame202/lemonade">Teleport!</a>
+
 **pdf-reader:** A very simple PDF Reader (literally just calling API methods) so I can listen to books, articles, or other things as I walk through campus! I've seen ads for paid versions of things like this and thought it was a nice idea, but rather than purchase a subscription I may as well code a primitive version that still works reasonably for free. <a href="https://github.com/BlueFlame202/pdf-reader/tree/main">Teleport!</a>
 
 **darth-vader-py:** The VADER method has some issues, which I documented in my repositories. I countered these issues by allowing for a more dynamic lexicon that isn't necessarily gold-standard, but is more accurate when it comes to sentiment. This way, it was more useful and sensitive for certain corpus of tweets that I cared about. <a href="https://github.com/BlueFlame202/darth-vader-py">Teleport!</a>
