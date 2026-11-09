@@ -11,19 +11,19 @@ Contact me if you'd like to learn more about the types of problems I'm currently
 
 Here are some of the personal projects I've worked on. To navigate to the repository for the project, click on the "Teleport!" link at the end of the description and you will be magically transported to your destination.
 
-**q2:** A UI similar to ChatGPT for `ollama` and local inference models, which will additionally incorporate memory and other features in the future. <a href="https://github.com/BlueFlame202/q2">Teleport!</a>
-
 **lemonade:** My personal website and blog! <a href="https://github.com/BlueFlame202/lemonade">Teleport!</a>
-
-**pdf-reader:** A very simple PDF Reader (literally just calling API methods) so I can listen to books, articles, or other things as I walk through campus! I've seen ads for paid versions of things like this and thought it was a nice idea, but rather than purchase a subscription I may as well code a primitive version that still works reasonably for free. <a href="https://github.com/BlueFlame202/pdf-reader/tree/main">Teleport!</a>
 
 **darth-vader-py:** The VADER method has some issues, which I documented in my repositories. I countered these issues by allowing for a more dynamic lexicon that isn't necessarily gold-standard, but is more accurate when it comes to sentiment. This way, it was more useful and sensitive for certain corpus of tweets that I cared about. <a href="https://github.com/BlueFlame202/darth-vader-py">Teleport!</a>
 
 **vader-cpp:** A C++ version of the VADER sentiment analysis tool. I made this so I could do sentiment analysis on a large corpus much faster, and also just because I like C++ and there wasn't an existing repository implementing this. I wrote this a while ago, so in hindsight, some things could be changed (especially stylistically). When I get a chance I'll make updates. If you would like to see these updates made, shoot me an email at aathreyakadambi@gmail.com so I'll prioritize them! <a href="https://github.com/BlueFlame202/vader-cpp">Teleport!</a>
 
-**latex-and-asy:** The files I use to make my fancy LaTeX notes and documents. <a href="https://github.com/BlueFlame202/latex-and-asy">Teleport!</a>
-
 <!--**blueflame202.github.io:** The public side of my website/blog. <a href="https://github.com/BlueFlame202/blueflame202.github.io">Teleport!</a>-->
+
+### Deprecated
+
+**latex-and-asy:** The files I use to make my fancy LaTeX notes and documents. Actively maintained, but not necessarily the best coding practice. Shoot me an email if you're interested (I keep latest versions locally rather than on Github). <a href="https://github.com/BlueFlame202/latex-and-asy">Teleport!</a>
+
+**pdf-reader:** A very simple PDF Reader (literally just calling API methods) so I can listen to books, articles, or other things as I walk through campus! I've seen ads for paid versions of things like this and thought it was a nice idea, but rather than purchase a subscription I may as well code a primitive version that still works reasonably for free. <a href="https://github.com/BlueFlame202/pdf-reader/tree/main">Teleport!</a> With increasingly better voice ML these days, this might be out of date and/or unsupporeted!
 
 ### High School (AKA: Bad Code But In Good Spirit)
 
